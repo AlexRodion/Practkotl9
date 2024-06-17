@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practkotl9</string>
+    <string name="_0_1d">Это случайное число между 0 и %1d</string>
+    <string name="random_heading">Это случайное число между 0 и %1d</string>
+</resources>
